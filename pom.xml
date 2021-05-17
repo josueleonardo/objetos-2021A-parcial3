@@ -34,6 +34,12 @@
             <version>5.7.2</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>uaslp.objetos.exams</groupId>
+            <artifactId>exam-parcial-3</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>test</scope>
+        </dependency>
 
     </dependencies>
 
